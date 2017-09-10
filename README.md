@@ -1,0 +1,1 @@
+This file consists of html code for a website. It includes various features like Header, Navigation bars, Search bar, 100% width section, Video embedding, Modal form, Location and footer. 
